@@ -1,0 +1,13 @@
+.icons{
+    display: flex;
+    background-color: lightgrey;
+}
+h1{
+    font-size: 30px;
+}
+.service ul li{
+    list-style: none;
+}
+#icon{
+    font-size: 40px;
+}
